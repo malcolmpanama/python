@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 #! python3
 
-#Automate the Boring Stuff with Python - Chapter 8 Practice Project - Mad Libs
-
 #madlibs.py - A program to let users set their own text anywhere the word ADJECTIVE, NOUN, ADVERB, or VERB appears in the text file.
 
 import re
