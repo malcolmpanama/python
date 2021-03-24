@@ -1,2 +1,2 @@
-# Python finance programs, using pandas, bs4m requests for financial purposes.
+# Python finance programs, using pandas, bs4, requests, etc for financial purposes.
 
